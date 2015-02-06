@@ -1,0 +1,27 @@
+﻿生成启动时间为 2015/1/28 21:35:39。
+     1>项目“E:\清华\项目\Influence Maximization\2015.1.6\uncertain_influence (1)\uncertain_influence\uncertain_influence.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\uncertain_influence.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         d:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         d:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\清华\项目\Influence Maximization\2015.1.6\uncertain_influence (1)\uncertain_influence\Release\uncertain_influence.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\uncertain_influence.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\清华\项目\Influence Maximization\2015.1.6\uncertain_influence (1)\uncertain_influence\Release\uncertain_influence.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\清华\项目\Influence Maximization\2015.1.6\uncertain_influence (1)\uncertain_influence\Release\uncertain_influence.lib" /MACHINE:X86 Release\general_cascade.obj
+         Release\graph.obj
+         Release\greedy.obj
+         Release\independ_cascade.obj
+         Release\main.obj
+         Release\pmia.obj
+         正在生成代码
+         已完成代码的生成
+         uncertain_influence.vcxproj -> E:\清华\项目\Influence Maximization\2015.1.6\uncertain_influence (1)\uncertain_influence\Release\uncertain_influence.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\清华\项目\Influence Maximization\2015.1.6\uncertain_influence (1)\uncertain_influence\Release\uncertain_influence.exe;#1" /manifest Release\uncertain_influence.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Release\uncertain_influence.unsuccessfulbuild”。
+         正在对“Release\uncertain_influence.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\清华\项目\Influence Maximization\2015.1.6\uncertain_influence (1)\uncertain_influence\uncertain_influence.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.70

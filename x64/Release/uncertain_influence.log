@@ -1,0 +1,8 @@
+﻿生成启动时间为 2015/1/6 2:03:55。
+     1>项目“E:\清华\项目\Influence Maximization\2015.1.6\uncertain_influence (1)\uncertain_influence\uncertain_influence.vcxproj”在节点 2 上(ClCompile 个目标)。
+     1>C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\Platforms\x64\Microsoft.Cpp.x64.Targets(514,5): error MSB8008: 指定的平台工具集(v110)未安装或无效。请确保选择受支持的 PlatformToolset 值。
+     1>已完成生成项目“E:\清华\项目\Influence Maximization\2015.1.6\uncertain_influence (1)\uncertain_influence\uncertain_influence.vcxproj”(ClCompile 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.00
